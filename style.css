@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body{
+    margin: 10px;
+}
+.naglowek {
+    color: rgb(226, 144, 43);
+}
+
+.wlkp {
+    color: rgb(20, 20, 207);
+}
+
+.link {
+    color: rgb(237 171 171);
+    background-color: rgb(14, 11, 11);
+}
